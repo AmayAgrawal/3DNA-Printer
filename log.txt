@@ -1,0 +1,26 @@
+C:\Program Files\Java\jdk1.7.0_21\bin\java -Djava.library.path=C:\Users\shikhar\IdeaProjects\3DNA\Java3D\1.5.1\bin -Didea.launcher.port=7542 "-Didea.launcher.bin.path=C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 12.1.4\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.7.0_21\jre\lib\charsets.jar
+C:\Program Files\Java\jdk1.7.0_21\jre\lib\deploy.jar
+C:\Program Files\Java\jdk1.7.0_21\jre\lib\deploy.jar
+C:\Program Files\Java\jdk1.7.0_21\jre\lib\javaws.jar
+C:\Program Files\Java\jdk1.7.0_21\jre\lib\jce.jar
+C:\Program Files\Java\jdk1.7.0_21\jre\lib\jfr.jar
+C:\Program Files\Java\jdk1.7.0_21\jre\lib\jfxrt.jar
+C:\Program Files\Java\jdk1.7.0_21\jre\lib\jsse.jar
+C:\Program Files\Java\jdk1.7.0_21\jre\lib\management-agent.jar
+C:\Program Files\Java\jdk1.7.0_21\jre\lib\plugin.jar
+C:\Program Files\Java\jdk1.7.0_21\jre\lib\resources.jar
+C:\Program Files\Java\jdk1.7.0_21\jre\lib\rt.jar
+C:\Program Files\Java\jdk1.7.0_21\jre\lib\ext\access-bridge-64.jar
+C:\Program Files\Java\jdk1.7.0_21\jre\lib\ext\dnsns.jar
+C:\Program Files\Java\jdk1.7.0_21\jre\lib\ext\jaccess.jar
+C:\Program Files\Java\jdk1.7.0_21\jre\lib\ext\localedata.jar
+C:\Program Files\Java\jdk1.7.0_21\jre\lib\ext\sunec.jar
+C:\Program Files\Java\jdk1.7.0_21\jre\lib\ext\sunjce_provider.jar
+C:\Program Files\Java\jdk1.7.0_21\jre\lib\ext\sunmscapi.jar
+C:\Program Files\Java\jdk1.7.0_21\jre\lib\ext\zipfs.jar
+C:\Users\shikhar\IdeaProjects\3DNA\out\production\3DNA
+C:\Users\shikhar\IdeaProjects\3DNA\itextpdf-5.4.1.jar
+C:\Users\shikhar\IdeaProjects\3DNA\Java3D\1.5.1\lib\ext\j3dcore.jar
+C:\Users\shikhar\IdeaProjects\3DNA\Java3D\1.5.1\lib\ext\vecmath.jar
+C:\Users\shikhar\IdeaProjects\3DNA\Java3D\1.5.1\lib\ext\j3dutils.jar
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 12.1.4\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMain MainFrame
